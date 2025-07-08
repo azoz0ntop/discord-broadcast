@@ -2,10 +2,13 @@ module.exports = {
     bot: {
         tokens: [
           "YOUR_BOT_TOKEN_HERE",              // Main bot token - Replace with your actual token
-        //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
-        //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
-        //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
-        //  "YOUR_FIFTH_BOT_TOKEN_HERE",       // 5 bot token - Uncomment and replace to use
+          "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
+          "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
+          "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
+          "YOUR_FIFTH_BOT_TOKEN_HERE",       // 5 bot token - Uncomment and replace to use
+         "YOUR_FIFTH_BOT_TOKEN_HERE",       // 6 bot token - Uncomment and replace to use
+          "YOUR_FIFTH_BOT_TOKEN_HERE",       // 7 bot token - Uncomment and replace to use
+         "YOUR_FIFTH_BOT_TOKEN_HERE",       // 8 bot token - Uncomment and replace to use
         ].filter(Boolean),
 
         defaultLanguage: 'ar', // ar | en لغة البوت
